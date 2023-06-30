@@ -1,0 +1,7 @@
+node_modules/
+dist/
+certs/sites/
+.idea/
+.data/
+/src/client/public/s/
+.fleet/

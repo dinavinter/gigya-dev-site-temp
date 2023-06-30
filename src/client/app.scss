@@ -1,0 +1,11 @@
+@import "bulma/bulma";
+@import "node_modules/skeleton-elements/scss/skeleton-elements";
+
+html, body, #app {
+  height: 100vh;
+  overflow: auto;
+}
+
+.is-flex-basis-auto {
+  flex-basis: auto;
+}
